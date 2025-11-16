@@ -17,5 +17,5 @@
 <img width="2110" height="844" alt="Untitled (5)" src="https://github.com/user-attachments/assets/8ed9cf21-15b5-4172-80af-8576f3be4424" />
 
 ## UX Project
-https://github.com/user-attachments/assets/51a995b8-8ba8-4223-9529-633000ff6e31
+https://github.com/user-attachments/assets/48781d7a-cf26-4766-8536-5b60354ceda5
 
