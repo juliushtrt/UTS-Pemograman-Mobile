@@ -7,5 +7,15 @@
 #### Dosen      : Donny Maulana,S.Kom., M.M.S.I.
 
 
-## Storyboard
+## Storyboard!!
 ![Gambar WhatsApp 2025-11-15 pukul 19 36 45_dd47142d](https://github.com/user-attachments/assets/5db7cbd4-1cca-4c1f-8b11-3c02a6a2a215)
+
+## Wareframe
+<img width="2532" height="1084" alt="frame" src="https://github.com/user-attachments/assets/b51c372b-7639-47c7-ac8c-d2f55a258fff" />
+
+## UI Project
+<img width="2110" height="844" alt="Untitled (5)" src="https://github.com/user-attachments/assets/8ed9cf21-15b5-4172-80af-8576f3be4424" />
+
+## UX Project
+https://github.com/user-attachments/assets/51a995b8-8ba8-4223-9529-633000ff6e31
+
